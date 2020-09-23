@@ -1,0 +1,17 @@
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\bin\Debug\netcoreapp2.2\RockPaperScissors.Tests.deps.json
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\bin\Debug\netcoreapp2.2\RockPaperScissors.Tests.runtimeconfig.json
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\bin\Debug\netcoreapp2.2\RockPaperScissors.Tests.runtimeconfig.dev.json
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\bin\Debug\netcoreapp2.2\RockPaperScissors.Tests.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\bin\Debug\netcoreapp2.2\RockPaperScissors.Tests.pdb
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\bin\Debug\netcoreapp2.2\RockPaperScissors.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\bin\Debug\netcoreapp2.2\RockPaperScissors.pdb
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\obj\Debug\netcoreapp2.2\RockPaperScissors.Tests.csprojAssemblyReference.cache
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\obj\Debug\netcoreapp2.2\RockPaperScissors.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\obj\Debug\netcoreapp2.2\RockPaperScissors.Tests.AssemblyInfoInputs.cache
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\obj\Debug\netcoreapp2.2\RockPaperScissors.Tests.AssemblyInfo.cs
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\obj\Debug\netcoreapp2.2\RockPaperScissors.Tests.csproj.CopyComplete
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\obj\Debug\netcoreapp2.2\RockPaperScissors.Tests.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\csRockPaperScissors\RockPaperScissors.Tests\obj\Debug\netcoreapp2.2\RockPaperScissors.Tests.pdb
