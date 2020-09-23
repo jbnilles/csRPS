@@ -1,16 +1,16 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ProjectName;
+using RockPaperScissors.Models;
 
-namespace ProjectName.Tests
+namespace RockPaperScissors.Tests
 {
   [TestClass]
-  public class ClassNameTests
+  public class ThrowTests
   {
+    Throw something = new Throw();
     [TestMethod]
-    public void NameOfMethodWeAreTesting_DescriptionOfBehavior_ExpectedReturnValue()
+    public void Compare_ComparesTwoThrowsToDetermineWinner_Winner()
     {
-      // any necessary logic to prep for test; instantiating new classes, etc.
-      Assert.AreEqual(EXPECTED RESULT, CODE TO TEST);
+      Assert.AreEqual("User", something.Compare("Scissor", "Rock"));
     }
   }
 }

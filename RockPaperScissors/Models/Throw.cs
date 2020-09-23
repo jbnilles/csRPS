@@ -1,7 +1,18 @@
-namespace ProjectName
+using System;
+using RockPaperScissors;
+
+namespace RockPaperScissors.Models
 {
-  public class ClassName
+  public class Throw
   {
-    // properties, constructors, methods, etc. go here
+    // Randomizer
+
+    // Compare
+    public string Compare(string computer, string user)
+    {
+      return null;
+    }
+
+    // Call 1 Random, 1 userInput, Compare, and return results
   }
 }
